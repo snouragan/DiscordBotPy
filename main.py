@@ -1,26 +1,26 @@
 import discord
 import os
-from replit import db
-from discord import logging
+from log import Log
+from keep_alive import keep_alive
+from discord.ext import commands
 
-logger = logging.getLogger('discord')
-logger.setLevel(logging.DEBUG)
-handler = logging.FileHandler(filename='discord.log', encoding='utf-8', mode='w')
-handler.setFormatter(logging.Formatter('%(asctime)s:%(levelname)s:%(name)s: %(message)s'))
-logger.addHandler(handler)
+intents = discord.Intents.default()
+intents.members = True
+log = Log()
+client = commands.Bot(intents = intents, command_prefix = os.getenv('PREFIX') + ' ')
 
-client = discord.Client()
+@client.command()
+async def load(ctx, extension):
+  client.load_extension(f'cogs.{extension}')
 
-@client.event
-async def on_ready():
-  print('We have logged in as {0.user}'.format(client))
+@client.command()
+async def unload(ctx, extension):
+  client.unload_extension(f'cogs.{extension}')
 
-@client.event
-async def on_message(message):
-  if message.author == client.user:
-    return
+for filename in os.listdir('./cogs'):
+  if filename.endswith('.py'):
+    client.load_extension(f'cogs.{filename[:-3]}')
 
-  if message.content.startswith('sobo hello'):
-    await message.channel.send('hello')
-
+keep_alive()
 client.run(os.getenv('TOKEN')) 
+
