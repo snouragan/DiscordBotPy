@@ -1,1 +1,1209 @@
-{"count": 10, "filters": {"status": ["FINISHED"]}, "competition": {"id": 2021, "area": {"id": 2072, "name": "England"}, "name": "Premier League", "code": "PL", "plan": "TIER_ONE", "lastUpdated": "2021-04-17T02:20:14Z"}, "matches": [{"id": 327104, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T12:30:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-21T16:20:19Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "DRAW", "duration": "REGULAR", "fullTime": {"homeTeam": 1, "awayTeam": 1}, "halfTime": {"homeTeam": 1, "awayTeam": 1}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 563, "name": "West Ham United FC"}, "awayTeam": {"id": 67, "name": "Newcastle United FC"}, "referees": [{"id": 11606, "name": "Constantine Hatzidakis", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11404, "name": "James Mainwaring", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11503, "name": "Graham Scott", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11443, "name": "Chris Kavanagh", "role": "REFEREE", "nationality": "England"}, {"id": 23568, "name": "Jarred Gillett", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "Australia"}, {"id": 11570, "name": "Harry Lennard", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327105, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T15:00:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "HOME_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 2, "awayTeam": 0}, "halfTime": {"homeTeam": 0, "awayTeam": 0}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 340, "name": "Southampton FC"}, "awayTeam": {"id": 62, "name": "Everton FC"}, "referees": [{"id": 11576, "name": "Darren Cann", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 57567, "name": "Wade Smith ", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11519, "name": "Keith Stroud", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11423, "name": "Andy Madley", "role": "REFEREE", "nationality": "England"}, {"id": 11610, "name": "Andre Marriner", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11505, "name": "Derek Eaton", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}, {"id": 11488, "name": "Simon Bennett", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327107, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T15:00:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "HOME_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 3, "awayTeam": 1}, "halfTime": {"homeTeam": 0, "awayTeam": 0}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 64, "name": "Liverpool FC"}, "awayTeam": {"id": 68, "name": "Norwich City FC"}, "referees": [{"id": 11575, "name": "Mike Dean", "role": "REFEREE", "nationality": "England"}, {"id": 11626, "name": "Matt Donohue", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11327, "name": "John Brooks", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 130160, "name": "Daniel Cook", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}, {"id": 11586, "name": "Richard West", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11505, "name": "Derek Eaton", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11521, "name": "Mark Scholes", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327109, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T15:00:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "AWAY_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 0, "awayTeam": 1}, "halfTime": {"homeTeam": 0, "awayTeam": 0}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 354, "name": "Crystal Palace FC"}, "awayTeam": {"id": 61, "name": "Chelsea FC"}, "referees": [{"id": 11556, "name": "David Coote", "role": "REFEREE", "nationality": "England"}, {"id": 11564, "name": "Stuart Burt", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 73363, "name": "Nick Hopton", "role": "ASSISTANT_REFEREE_N2", "nationality": null}, {"id": 11405, "name": "Michael Salisbury", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11605, "name": "Michael Oliver", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11424, "name": "Neil Davies", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327110, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T15:00:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "AWAY_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 0, "awayTeam": 3}, "halfTime": {"homeTeam": 0, "awayTeam": 2}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 397, "name": "Brighton & Hove Albion FC"}, "awayTeam": {"id": 328, "name": "Burnley FC"}, "referees": [{"id": 11487, "name": "Kevin Friend", "role": "REFEREE", "nationality": "England"}, {"id": 11595, "name": "Adrian Holmes", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11544, "name": "Simon Beck", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11486, "name": "Dean Whitestone", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11309, "name": "Peter Bankes", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11495, "name": "Ian Hussin", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327111, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T15:00:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "AWAY_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 0, "awayTeam": 1}, "halfTime": {"homeTeam": 0, "awayTeam": 0}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 58, "name": "Aston Villa FC"}, "awayTeam": {"id": 346, "name": "Watford FC"}, "referees": [{"id": 11446, "name": "Robert Jones", "role": "REFEREE", "nationality": "England"}, {"id": 11504, "name": "Simon Long", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11611, "name": "Scott Ledger", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11551, "name": "Martin Atkinson", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11520, "name": "Paul Tierney", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11530, "name": "Lee Betts", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327112, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T15:00:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "HOME_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 2, "awayTeam": 1}, "halfTime": {"homeTeam": 0, "awayTeam": 0}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 57, "name": "Arsenal FC"}, "awayTeam": {"id": 402, "name": "Brentford FC"}, "referees": [{"id": 11567, "name": "Jonathan Moss", "role": "REFEREE", "nationality": "England"}, {"id": 11531, "name": "Marc Perry", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11461, "name": "Tim Wood", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11430, "name": "Simon Hooper", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11479, "name": "Lee Mason", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11431, "name": "Daniel Robathan", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327106, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-19T17:30:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "AWAY_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 2, "awayTeam": 3}, "halfTime": {"homeTeam": 1, "awayTeam": 1}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 65, "name": "Manchester City FC"}, "awayTeam": {"id": 73, "name": "Tottenham Hotspur FC"}, "referees": [{"id": 11580, "name": "Anthony Taylor", "role": "REFEREE", "nationality": "England"}, {"id": 11581, "name": "Gary Beswick", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11615, "name": "Adam Nunn", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11585, "name": "Craig Pawson", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11469, "name": "Darren England", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11488, "name": "Simon Bennett", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327108, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-20T14:00:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "AWAY_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 2, "awayTeam": 4}, "halfTime": {"homeTeam": 0, "awayTeam": 2}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 341, "name": "Leeds United FC"}, "awayTeam": {"id": 66, "name": "Manchester United FC"}, "referees": [{"id": 11520, "name": "Paul Tierney", "role": "REFEREE", "nationality": "England"}, {"id": 11530, "name": "Lee Betts", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11424, "name": "Neil Davies", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11575, "name": "Mike Dean", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11443, "name": "Chris Kavanagh", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11615, "name": "Adam Nunn", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}, {"id": 327103, "season": {"id": 733, "startDate": "2021-08-13", "endDate": "2022-05-22", "currentMatchday": 26}, "utcDate": "2022-02-20T16:30:00Z", "status": "FINISHED", "matchday": 26, "stage": "REGULAR_SEASON", "group": null, "lastUpdated": "2022-02-22T00:20:18Z", "odds": {"msg": "Activate Odds-Package in User-Panel to retrieve odds."}, "score": {"winner": "HOME_TEAM", "duration": "REGULAR", "fullTime": {"homeTeam": 2, "awayTeam": 1}, "halfTime": {"homeTeam": 1, "awayTeam": 1}, "extraTime": {"homeTeam": null, "awayTeam": null}, "penalties": {"homeTeam": null, "awayTeam": null}}, "homeTeam": {"id": 76, "name": "Wolverhampton Wanderers FC"}, "awayTeam": {"id": 338, "name": "Leicester City FC"}, "referees": [{"id": 11585, "name": "Craig Pawson", "role": "REFEREE", "nationality": "England"}, {"id": 11488, "name": "Simon Bennett", "role": "ASSISTANT_REFEREE_N1", "nationality": "England"}, {"id": 11495, "name": "Ian Hussin", "role": "ASSISTANT_REFEREE_N2", "nationality": "England"}, {"id": 11423, "name": "Andy Madley", "role": "FOURTH_OFFICIAL", "nationality": "England"}, {"id": 11494, "name": "Stuart Attwell", "role": "VIDEO_ASSISANT_REFEREE_N1", "nationality": "England"}, {"id": 11531, "name": "Marc Perry", "role": "VIDEO_ASSISANT_REFEREE_N2", "nationality": "England"}]}]}
+{
+    "count": 14,
+    "filters": {
+        "status": [
+            "FINISHED"
+        ]
+    },
+    "competition": {
+        "id": 2021,
+        "area": {
+            "id": 2072,
+            "name": "England"
+        },
+        "name": "Premier League",
+        "code": "PL",
+        "plan": "TIER_ONE",
+        "lastUpdated": "2021-04-17T02:20:14Z"
+    },
+    "matches": [
+        {
+            "id": 327104,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T12:30:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "DRAW",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 563,
+                "name": "West Ham United FC"
+            },
+            "awayTeam": {
+                "id": 67,
+                "name": "Newcastle United FC"
+            },
+            "referees": [
+                {
+                    "id": 11606,
+                    "name": "Constantine Hatzidakis",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11404,
+                    "name": "James Mainwaring",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11443,
+                    "name": "Chris Kavanagh",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 23568,
+                    "name": "Jarred Gillett",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "Australia"
+                },
+                {
+                    "id": 11570,
+                    "name": "Harry Lennard",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327105,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 340,
+                "name": "Southampton FC"
+            },
+            "awayTeam": {
+                "id": 62,
+                "name": "Everton FC"
+            },
+            "referees": [
+                {
+                    "id": 11576,
+                    "name": "Darren Cann",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 57567,
+                    "name": "Wade Smith ",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11519,
+                    "name": "Keith Stroud",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11423,
+                    "name": "Andy Madley",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11505,
+                    "name": "Derek Eaton",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327107,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "awayTeam": {
+                "id": 68,
+                "name": "Norwich City FC"
+            },
+            "referees": [
+                {
+                    "id": 11575,
+                    "name": "Mike Dean",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11626,
+                    "name": "Matt Donohue",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11327,
+                    "name": "John Brooks",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 130160,
+                    "name": "Daniel Cook",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11586,
+                    "name": "Richard West",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11505,
+                    "name": "Derek Eaton",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11521,
+                    "name": "Mark Scholes",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327109,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 354,
+                "name": "Crystal Palace FC"
+            },
+            "awayTeam": {
+                "id": 61,
+                "name": "Chelsea FC"
+            },
+            "referees": [
+                {
+                    "id": 11556,
+                    "name": "David Coote",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 73363,
+                    "name": "Nick Hopton",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": null
+                },
+                {
+                    "id": 11405,
+                    "name": "Michael Salisbury",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11424,
+                    "name": "Neil Davies",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327110,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 2
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 397,
+                "name": "Brighton & Hove Albion FC"
+            },
+            "awayTeam": {
+                "id": 328,
+                "name": "Burnley FC"
+            },
+            "referees": [
+                {
+                    "id": 11487,
+                    "name": "Kevin Friend",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11595,
+                    "name": "Adrian Holmes",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11544,
+                    "name": "Simon Beck",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11486,
+                    "name": "Dean Whitestone",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11309,
+                    "name": "Peter Bankes",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11495,
+                    "name": "Ian Hussin",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327111,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 58,
+                "name": "Aston Villa FC"
+            },
+            "awayTeam": {
+                "id": 346,
+                "name": "Watford FC"
+            },
+            "referees": [
+                {
+                    "id": 11446,
+                    "name": "Robert Jones",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11504,
+                    "name": "Simon Long",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11611,
+                    "name": "Scott Ledger",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11551,
+                    "name": "Martin Atkinson",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11520,
+                    "name": "Paul Tierney",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11530,
+                    "name": "Lee Betts",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327112,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T15:00:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 402,
+                "name": "Brentford FC"
+            },
+            "referees": [
+                {
+                    "id": 11567,
+                    "name": "Jonathan Moss",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11531,
+                    "name": "Marc Perry",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11461,
+                    "name": "Tim Wood",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11430,
+                    "name": "Simon Hooper",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11479,
+                    "name": "Lee Mason",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11431,
+                    "name": "Daniel Robathan",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327106,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-19T17:30:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 3
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 65,
+                "name": "Manchester City FC"
+            },
+            "awayTeam": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            },
+            "referees": [
+                {
+                    "id": 11580,
+                    "name": "Anthony Taylor",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11581,
+                    "name": "Gary Beswick",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11615,
+                    "name": "Adam Nunn",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11585,
+                    "name": "Craig Pawson",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11469,
+                    "name": "Darren England",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327108,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-20T14:00:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 4
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 2
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 341,
+                "name": "Leeds United FC"
+            },
+            "awayTeam": {
+                "id": 66,
+                "name": "Manchester United FC"
+            },
+            "referees": [
+                {
+                    "id": 11520,
+                    "name": "Paul Tierney",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11530,
+                    "name": "Lee Betts",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11424,
+                    "name": "Neil Davies",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11575,
+                    "name": "Mike Dean",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11443,
+                    "name": "Chris Kavanagh",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11615,
+                    "name": "Adam Nunn",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327103,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-20T16:30:00Z",
+            "status": "FINISHED",
+            "matchday": 26,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T00:20:19Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 76,
+                "name": "Wolverhampton Wanderers FC"
+            },
+            "awayTeam": {
+                "id": 338,
+                "name": "Leicester City FC"
+            },
+            "referees": [
+                {
+                    "id": 11585,
+                    "name": "Craig Pawson",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11495,
+                    "name": "Ian Hussin",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11423,
+                    "name": "Andy Madley",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11531,
+                    "name": "Marc Perry",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327185,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-23T19:30:00Z",
+            "status": "FINISHED",
+            "matchday": 18,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T08:20:16Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "AWAY_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 4
+                },
+                "halfTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 2
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 346,
+                "name": "Watford FC"
+            },
+            "awayTeam": {
+                "id": 354,
+                "name": "Crystal Palace FC"
+            },
+            "referees": [
+                {
+                    "id": 11610,
+                    "name": "Andre Marriner",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11611,
+                    "name": "Scott Ledger",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11505,
+                    "name": "Derek Eaton",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11430,
+                    "name": "Simon Hooper",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11575,
+                    "name": "Mike Dean",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11521,
+                    "name": "Mark Scholes",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327239,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-23T19:30:00Z",
+            "status": "FINISHED",
+            "matchday": 13,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T08:20:16Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 1,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 328,
+                "name": "Burnley FC"
+            },
+            "awayTeam": {
+                "id": 73,
+                "name": "Tottenham Hotspur FC"
+            },
+            "referees": [
+                {
+                    "id": 11503,
+                    "name": "Graham Scott",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 130160,
+                    "name": "Daniel Cook",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11431,
+                    "name": "Daniel Robathan",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11567,
+                    "name": "Jonathan Moss",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11494,
+                    "name": "Stuart Attwell",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 98555,
+                    "name": "Sian Massey-Ellis",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327179,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-23T19:45:00Z",
+            "status": "FINISHED",
+            "matchday": 19,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T08:20:16Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 6,
+                    "awayTeam": 0
+                },
+                "halfTime": {
+                    "homeTeam": 3,
+                    "awayTeam": 0
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 64,
+                "name": "Liverpool FC"
+            },
+            "awayTeam": {
+                "id": 341,
+                "name": "Leeds United FC"
+            },
+            "referees": [
+                {
+                    "id": 11605,
+                    "name": "Michael Oliver",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11488,
+                    "name": "Simon Bennett",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11378,
+                    "name": "Tony Harrington",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11479,
+                    "name": "Lee Mason",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11576,
+                    "name": "Darren Cann",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        },
+        {
+            "id": 327172,
+            "season": {
+                "id": 733,
+                "startDate": "2021-08-13",
+                "endDate": "2022-05-22",
+                "currentMatchday": 27
+            },
+            "utcDate": "2022-02-24T19:45:00Z",
+            "status": "FINISHED",
+            "matchday": 20,
+            "stage": "REGULAR_SEASON",
+            "group": null,
+            "lastUpdated": "2022-02-25T08:20:16Z",
+            "odds": {
+                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
+            },
+            "score": {
+                "winner": "HOME_TEAM",
+                "duration": "REGULAR",
+                "fullTime": {
+                    "homeTeam": 2,
+                    "awayTeam": 1
+                },
+                "halfTime": {
+                    "homeTeam": 0,
+                    "awayTeam": 1
+                },
+                "extraTime": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                },
+                "penalties": {
+                    "homeTeam": null,
+                    "awayTeam": null
+                }
+            },
+            "homeTeam": {
+                "id": 57,
+                "name": "Arsenal FC"
+            },
+            "awayTeam": {
+                "id": 76,
+                "name": "Wolverhampton Wanderers FC"
+            },
+            "referees": [
+                {
+                    "id": 11530,
+                    "name": "Lee Betts",
+                    "role": "ASSISTANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11404,
+                    "name": "James Mainwaring",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11487,
+                    "name": "Kevin Friend",
+                    "role": "FOURTH_OFFICIAL",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11551,
+                    "name": "Martin Atkinson",
+                    "role": "REFEREE",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11327,
+                    "name": "John Brooks",
+                    "role": "VIDEO_ASSISANT_REFEREE_N1",
+                    "nationality": "England"
+                },
+                {
+                    "id": 11564,
+                    "name": "Stuart Burt",
+                    "role": "VIDEO_ASSISANT_REFEREE_N2",
+                    "nationality": "England"
+                }
+            ]
+        }
+    ]
+}
