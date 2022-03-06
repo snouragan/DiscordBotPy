@@ -2,6 +2,7 @@
 	deps = [
 		pkgs.python38Full
 		pkgs.vim
+		pkgs.sqlite
 	];
   env = {
     PYTHON_LD_LIBRARY_PATH = pkgs.lib.makeLibraryPath [

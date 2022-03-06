@@ -16,7 +16,7 @@ class SoccerAPI:
   def getMatchesScheduledToday(self):
     connection = http.client.HTTPConnection('api.football-data.org')
     headers = { 'X-Auth-Token': '200c3cdb3bd348aa89a5f82018066554' }
-    connection.request('GET', f'/v2/competitions/PL/matches?dateFrom={self.getDateToday()}&dateTo={self.getDateTomorrow()}&status=SCHEDULED', None, headers )
+    connection.request('GET', f'/v2/competitions/PD/matches?dateFrom={self.getDateToday()}&dateTo={self.getDateTomorrow()}&status=SCHEDULED', None, headers )
     response = json.loads(connection.getresponse().read().decode())
     with open('scheduled_matches.json', 'w') as outfile:
       json.dump(response, outfile, indent = 4)

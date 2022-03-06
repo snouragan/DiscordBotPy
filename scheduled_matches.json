@@ -1,36 +1,36 @@
 {
-    "count": 7,
+    "count": 4,
     "filters": {
         "status": [
             "SCHEDULED"
         ]
     },
     "competition": {
-        "id": 2021,
+        "id": 2014,
         "area": {
-            "id": 2072,
-            "name": "England"
+            "id": 2224,
+            "name": "Spain"
         },
-        "name": "Premier League",
-        "code": "PL",
+        "name": "Primera Division",
+        "code": "PD",
         "plan": "TIER_ONE",
-        "lastUpdated": "2021-04-17T02:20:14Z"
+        "lastUpdated": "2021-04-17T00:00:28Z"
     },
     "matches": [
         {
-            "id": 327094,
+            "id": 331093,
             "season": {
-                "id": 733,
+                "id": 380,
                 "startDate": "2021-08-13",
                 "endDate": "2022-05-22",
                 "currentMatchday": 27
             },
-            "utcDate": "2022-02-25T20:00:00Z",
+            "utcDate": "2022-03-06T15:15:00Z",
             "status": "SCHEDULED",
             "matchday": 27,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2022-01-01T08:20:13Z",
+            "lastUpdated": "2022-03-06T13:15:14Z",
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
@@ -55,66 +55,66 @@
                 }
             },
             "homeTeam": {
-                "id": 340,
-                "name": "Southampton FC"
+                "id": 285,
+                "name": "Elche CF"
             },
             "awayTeam": {
-                "id": 68,
-                "name": "Norwich City FC"
+                "id": 81,
+                "name": "FC Barcelona"
             },
             "referees": [
                 {
-                    "id": 11504,
-                    "name": "Simon Long",
-                    "role": "ASSISTANT_REFEREE_N1",
-                    "nationality": "England"
+                    "id": 56948,
+                    "name": "Mario Melero",
+                    "role": "REFEREE",
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 73363,
-                    "name": "Nick Hopton",
-                    "role": "ASSISTANT_REFEREE_N2",
+                    "id": 167630,
+                    "name": "Jose Luis Martinez",
+                    "role": "ASSISTANT_REFEREE_N1",
                     "nationality": null
                 },
                 {
-                    "id": 11503,
-                    "name": "Graham Scott",
+                    "id": 32170,
+                    "name": "Diego S\u00e1nchez",
+                    "role": "ASSISTANT_REFEREE_N2",
+                    "nationality": "Spain"
+                },
+                {
+                    "id": 57276,
+                    "name": "Francisco S\u00e1ez Vital",
                     "role": "FOURTH_OFFICIAL",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11430,
-                    "name": "Simon Hooper",
-                    "role": "REFEREE",
-                    "nationality": "England"
-                },
-                {
-                    "id": 23568,
-                    "name": "Jarred Gillett",
+                    "id": 15628,
+                    "name": "Ricardo de Burgos",
                     "role": "VIDEO_ASSISANT_REFEREE_N1",
-                    "nationality": "Australia"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 98555,
-                    "name": "Sian Massey-Ellis",
+                    "id": 57917,
+                    "name": "Jorge Figueroa",
                     "role": "VIDEO_ASSISANT_REFEREE_N2",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 }
             ]
         },
         {
-            "id": 327096,
+            "id": 331099,
             "season": {
-                "id": 733,
+                "id": 380,
                 "startDate": "2021-08-13",
                 "endDate": "2022-05-22",
                 "currentMatchday": 27
             },
-            "utcDate": "2022-02-26T12:30:00Z",
+            "utcDate": "2022-03-06T17:30:00Z",
             "status": "SCHEDULED",
             "matchday": 27,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2022-01-01T08:20:13Z",
+            "lastUpdated": "2022-03-06T15:30:16Z",
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
@@ -139,234 +139,66 @@
                 }
             },
             "homeTeam": {
-                "id": 341,
-                "name": "Leeds United FC"
+                "id": 558,
+                "name": "RC Celta de Vigo"
             },
             "awayTeam": {
-                "id": 73,
-                "name": "Tottenham Hotspur FC"
+                "id": 89,
+                "name": "RCD Mallorca"
             },
             "referees": [
                 {
-                    "id": 11495,
-                    "name": "Ian Hussin",
+                    "id": 58172,
+                    "name": "Juli\u00e1n Villase\u00f1or",
                     "role": "ASSISTANT_REFEREE_N1",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11586,
-                    "name": "Richard West",
+                    "id": 127923,
+                    "name": "Alejandro Estevez Iglesias",
                     "role": "ASSISTANT_REFEREE_N2",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11446,
-                    "name": "Robert Jones",
+                    "id": 32255,
+                    "name": "Daniel Palencia",
                     "role": "FOURTH_OFFICIAL",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11585,
-                    "name": "Craig Pawson",
+                    "id": 171625,
+                    "name": "Miguel Ortiz",
                     "role": "REFEREE",
-                    "nationality": "England"
-                },
-                {
-                    "id": 23568,
-                    "name": "Jarred Gillett",
-                    "role": "VIDEO_ASSISANT_REFEREE_N1",
-                    "nationality": "Australia"
-                },
-                {
-                    "id": 11606,
-                    "name": "Constantine Hatzidakis",
-                    "role": "VIDEO_ASSISANT_REFEREE_N2",
-                    "nationality": "England"
-                }
-            ]
-        },
-        {
-            "id": 327095,
-            "season": {
-                "id": 733,
-                "startDate": "2021-08-13",
-                "endDate": "2022-05-22",
-                "currentMatchday": 27
-            },
-            "utcDate": "2022-02-26T15:00:00Z",
-            "status": "SCHEDULED",
-            "matchday": 27,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2022-01-27T00:20:20Z",
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "halfTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "extraTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "penalties": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                }
-            },
-            "homeTeam": {
-                "id": 66,
-                "name": "Manchester United FC"
-            },
-            "awayTeam": {
-                "id": 346,
-                "name": "Watford FC"
-            },
-            "referees": [
-                {
-                    "id": 11595,
-                    "name": "Adrian Holmes",
-                    "role": "ASSISTANT_REFEREE_N1",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11544,
-                    "name": "Simon Beck",
-                    "role": "ASSISTANT_REFEREE_N2",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11486,
-                    "name": "Dean Whitestone",
-                    "role": "FOURTH_OFFICIAL",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11487,
-                    "name": "Kevin Friend",
-                    "role": "REFEREE",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11479,
-                    "name": "Lee Mason",
-                    "role": "VIDEO_ASSISANT_REFEREE_N1",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11461,
-                    "name": "Tim Wood",
-                    "role": "VIDEO_ASSISANT_REFEREE_N2",
-                    "nationality": "England"
-                }
-            ]
-        },
-        {
-            "id": 327098,
-            "season": {
-                "id": 733,
-                "startDate": "2021-08-13",
-                "endDate": "2022-05-22",
-                "currentMatchday": 27
-            },
-            "utcDate": "2022-02-26T15:00:00Z",
-            "status": "SCHEDULED",
-            "matchday": 27,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2022-01-27T00:20:20Z",
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "halfTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "extraTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "penalties": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                }
-            },
-            "homeTeam": {
-                "id": 354,
-                "name": "Crystal Palace FC"
-            },
-            "awayTeam": {
-                "id": 328,
-                "name": "Burnley FC"
-            },
-            "referees": [
-                {
-                    "id": 11488,
-                    "name": "Simon Bennett",
-                    "role": "ASSISTANT_REFEREE_N1",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11531,
-                    "name": "Marc Perry",
-                    "role": "ASSISTANT_REFEREE_N2",
-                    "nationality": "England"
-                },
-                {
-                    "id": 172508,
-                    "name": "Josh Smith",
-                    "role": "FOURTH_OFFICIAL",
                     "nationality": null
                 },
                 {
-                    "id": 11567,
-                    "name": "Jonathan Moss",
-                    "role": "REFEREE",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11610,
-                    "name": "Andre Marriner",
+                    "id": 43843,
+                    "name": "Carlos del Cerro",
                     "role": "VIDEO_ASSISANT_REFEREE_N1",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11570,
-                    "name": "Harry Lennard",
+                    "id": 56957,
+                    "name": "Jos\u00e9 Gonz\u00e1lez",
                     "role": "VIDEO_ASSISANT_REFEREE_N2",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 }
             ]
         },
         {
-            "id": 327100,
+            "id": 331100,
             "season": {
-                "id": 733,
+                "id": 380,
                 "startDate": "2021-08-13",
                 "endDate": "2022-05-22",
                 "currentMatchday": 27
             },
-            "utcDate": "2022-02-26T15:00:00Z",
+            "utcDate": "2022-03-06T20:00:00Z",
             "status": "SCHEDULED",
             "matchday": 27,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2022-01-27T00:20:20Z",
+            "lastUpdated": "2022-02-13T00:20:09Z",
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
@@ -391,66 +223,66 @@
                 }
             },
             "homeTeam": {
-                "id": 397,
-                "name": "Brighton & Hove Albion FC"
+                "id": 90,
+                "name": "Real Betis Balompi\u00e9"
             },
             "awayTeam": {
-                "id": 58,
-                "name": "Aston Villa FC"
+                "id": 78,
+                "name": "Club Atl\u00e9tico de Madrid"
             },
             "referees": [
                 {
-                    "id": 11424,
-                    "name": "Neil Davies",
+                    "id": 82,
+                    "name": "Roberto D\u00edaz P\u00e9rez",
                     "role": "ASSISTANT_REFEREE_N1",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11444,
-                    "name": "Matthew Wilkes",
+                    "id": 32627,
+                    "name": "Juan L\u00f3pez",
                     "role": "ASSISTANT_REFEREE_N2",
-                    "nationality": null
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11556,
-                    "name": "David Coote",
+                    "id": 129443,
+                    "name": "Luis Bestard Servera",
                     "role": "FOURTH_OFFICIAL",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11327,
-                    "name": "John Brooks",
+                    "id": 55934,
+                    "name": "Guillermo Cuadra",
                     "role": "REFEREE",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11605,
-                    "name": "Michael Oliver",
+                    "id": 43867,
+                    "name": "Ignacio Iglesias",
                     "role": "VIDEO_ASSISANT_REFEREE_N1",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11611,
-                    "name": "Scott Ledger",
+                    "id": 56978,
+                    "name": "Pablo Gonz\u00e1lez",
                     "role": "VIDEO_ASSISANT_REFEREE_N2",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 }
             ]
         },
         {
-            "id": 327101,
+            "id": 331101,
             "season": {
-                "id": 733,
+                "id": 380,
                 "startDate": "2021-08-13",
                 "endDate": "2022-05-22",
                 "currentMatchday": 27
             },
-            "utcDate": "2022-02-26T15:00:00Z",
+            "utcDate": "2022-03-07T20:00:00Z",
             "status": "SCHEDULED",
             "matchday": 27,
             "stage": "REGULAR_SEASON",
             "group": null,
-            "lastUpdated": "2022-01-27T00:20:20Z",
+            "lastUpdated": "2022-02-13T00:20:09Z",
             "odds": {
                 "msg": "Activate Odds-Package in User-Panel to retrieve odds."
             },
@@ -475,133 +307,49 @@
                 }
             },
             "homeTeam": {
-                "id": 402,
-                "name": "Brentford FC"
+                "id": 77,
+                "name": "Athletic Club"
             },
             "awayTeam": {
-                "id": 67,
-                "name": "Newcastle United FC"
+                "id": 88,
+                "name": "Levante UD"
             },
             "referees": [
                 {
-                    "id": 11480,
-                    "name": "Eddie Smart",
+                    "id": 56969,
+                    "name": "Marcos Cerd\u00e1n Aguilar",
                     "role": "ASSISTANT_REFEREE_N1",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11521,
-                    "name": "Mark Scholes",
+                    "id": 49493,
+                    "name": "Ignacio Alonso",
                     "role": "ASSISTANT_REFEREE_N2",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11423,
-                    "name": "Andy Madley",
+                    "id": 51005,
+                    "name": "Alberto G\u00f3mez",
                     "role": "FOURTH_OFFICIAL",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11575,
-                    "name": "Mike Dean",
+                    "id": 32518,
+                    "name": "Alejandro Mu\u00f1\u00edz",
                     "role": "REFEREE",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11469,
-                    "name": "Darren England",
+                    "id": 43867,
+                    "name": "Ignacio Iglesias",
                     "role": "VIDEO_ASSISANT_REFEREE_N1",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 },
                 {
-                    "id": 11505,
-                    "name": "Derek Eaton",
+                    "id": 32243,
+                    "name": "Ra\u00fal Caba\u00f1ero",
                     "role": "VIDEO_ASSISANT_REFEREE_N2",
-                    "nationality": "England"
-                }
-            ]
-        },
-        {
-            "id": 327097,
-            "season": {
-                "id": 733,
-                "startDate": "2021-08-13",
-                "endDate": "2022-05-22",
-                "currentMatchday": 27
-            },
-            "utcDate": "2022-02-26T17:30:00Z",
-            "status": "SCHEDULED",
-            "matchday": 27,
-            "stage": "REGULAR_SEASON",
-            "group": null,
-            "lastUpdated": "2022-01-01T08:20:13Z",
-            "odds": {
-                "msg": "Activate Odds-Package in User-Panel to retrieve odds."
-            },
-            "score": {
-                "winner": null,
-                "duration": "REGULAR",
-                "fullTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "halfTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "extraTime": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                },
-                "penalties": {
-                    "homeTeam": null,
-                    "awayTeam": null
-                }
-            },
-            "homeTeam": {
-                "id": 62,
-                "name": "Everton FC"
-            },
-            "awayTeam": {
-                "id": 65,
-                "name": "Manchester City FC"
-            },
-            "referees": [
-                {
-                    "id": 11530,
-                    "name": "Lee Betts",
-                    "role": "ASSISTANT_REFEREE_N1",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11564,
-                    "name": "Stuart Burt",
-                    "role": "ASSISTANT_REFEREE_N2",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11551,
-                    "name": "Martin Atkinson",
-                    "role": "FOURTH_OFFICIAL",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11520,
-                    "name": "Paul Tierney",
-                    "role": "REFEREE",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11443,
-                    "name": "Chris Kavanagh",
-                    "role": "VIDEO_ASSISANT_REFEREE_N1",
-                    "nationality": "England"
-                },
-                {
-                    "id": 11581,
-                    "name": "Gary Beswick",
-                    "role": "VIDEO_ASSISANT_REFEREE_N2",
-                    "nationality": "England"
+                    "nationality": "Spain"
                 }
             ]
         }

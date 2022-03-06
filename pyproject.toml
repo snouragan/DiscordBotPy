@@ -11,6 +11,9 @@ discord = "^1.7.3"
 replit = "^3.2.4"
 Flask = "^2.0.3"
 emojis = "^0.6.0"
+CairoSVG = "^2.5.2"
+svglib = "^1.2.1"
+requests = "^2.27.1"
 
 [tool.poetry.dev-dependencies]
 
